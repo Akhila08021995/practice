@@ -1,0 +1,39 @@
+body{
+
+}
+h1{
+  padding-top: 30px;
+  font-size: 5.265rem;
+  font-family: Sacramento;
+  margin-bottom:0;
+}
+.intro-para{
+  margin:0;
+  padding-bottom:70px;
+}
+h2{
+  margin-top: 0;
+  padding-top: 70px;
+}
+.intro{
+  font-size: 2rem;
+  text-align: center;
+    background-color:#f9e0ae;
+}
+.hermoine-reading{
+  max-width: 900px;
+  max-height:900px;
+}
+.interests-para{
+  width: 30%;
+  line-height:2;
+  margin:30px auto;
+}
+.interests{
+  text-align: center;
+  background-color: #f1ca89;
+}
+.hobbies{
+  text-align: center;
+  background-color: #ffab73;
+}
